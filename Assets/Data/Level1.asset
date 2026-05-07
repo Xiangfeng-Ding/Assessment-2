@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9675c09673e77048b5258c5a31b2cb7, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  speakerName: 
+  speakerIcon: {fileID: 0}
+  isPlayer: 0
+  sentences:
+  - We need to collect a certain amount of gems to open the front door.
+  - There's a gemstone on top, have you taken it?
+  - You have to use bouncing mushrooms to get up.
